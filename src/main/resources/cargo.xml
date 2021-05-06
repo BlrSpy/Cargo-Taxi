@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cargo_taxi>
+    <entity>
+        <administrator adminid="1">
+            <name>Ivan</name>
+            <surname>Ivanov</surname>
+            <login>FoTk15K3BeOvy5H4Dz7</login>
+            <password>aOj5G8jsdYihgf67GF94hjkdsf51pzkrvlaY57HJ</password>
+        </administrator>
+        <administrator adminid="2">
+            <name>Fedor</name>
+            <surname>Fedorov</surname>
+            <login>Oh567Fjhgnq[xkg46hsd4GNi783ghj</login>
+            <password>DavZO8906957d837bb9b</password>
+        </administrator>
+        <administrator adminid="3">
+            <name>Ellington</name>
+            <surname>Frank</surname>
+            <login>oAVNjY14bb5eee3bd0621e9</login>
+            <password>rXo4iok5a90dfae6ce5215d1b</password>
+        </administrator>
+        <administrator adminid="4">
+            <name>Dorka</name>
+            <surname>Fredriksson</surname>
+            <login>Vtgi79H018eca084a762647a</login>
+            <password>AcVc54f321800f10dd4e5de</password>
+        </administrator>
+        <administrator adminid="5">
+            <name>Olufunmilayo</name>
+            <surname>McNiven</surname>
+            <login>RSpWpL9d5ff48c2b73c6540</login>
+            <password>JMUGCPbdc9ea10becb27c5</password>
+        </administrator>
+        <administrator adminid="6">
+            <name>Aminah</name>
+            <surname>Aarden</surname>
+            <login>Il4yhj08f9991d6e69ad4</login>
+            <password>9nkZxcceb4d102ef3312f0e1</password>
+        </administrator>
+        <administrator adminid="7">
+            <name>Johnie</name>
+            <surname>Esposito</surname>
+            <login>q8R1Szf35aa35c69c1edb</login>
+            <password>iT5ldh5638ad3e85baa5</password>
+        </administrator>
+        <administrator adminid="8">
+            <name>Gerhild</name>
+            <surname>Ananias</surname>
+            <login>kpdzzxcafdf89087fc90</login>
+            <password>PXnIrWWfee4b7ba1959b6d9b2</password>
+        </administrator>
+        <administrator adminid="9">
+            <name>Trishna</name>
+            <surname>David</surname>
+            <login>phrowJ30663ce2f62f9ef</login>
+            <password>Uf5uh81f79be6f3dcdf6</password>
+        </administrator>
+        <administrator adminid="10">
+            <name>Doyle</name>
+            <surname>Michelakos</surname>
+            <login>S6DCnxdefce29b5b52a9d3</login>
+            <password>OUi6rw4f665a1bf7f408</password>
+        </administrator>
+    </entity>
+</cargo_taxi>
